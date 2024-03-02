@@ -1,0 +1,32 @@
+{
+  "0x420000000000000000000000000000000000000a": {
+    "chain": "metis",
+    "symbol": "WETH",
+    "decimals": 18,
+    "address": "0x420000000000000000000000000000000000000a"
+  },
+  "0x4c078361fc9bbb78df910800a991c7c3dd2f6ce0": {
+    "chain": "metis",
+    "symbol": "m.DAI",
+    "decimals": 18,
+    "address": "0x4c078361fc9bbb78df910800a991c7c3dd2f6ce0"
+  },
+  "0xbb06dca3ae6887fabf931640f67cab3e3a16f4dc": {
+    "chain": "metis",
+    "symbol": "m.USDT",
+    "decimals": 6,
+    "address": "0xbb06dca3ae6887fabf931640f67cab3e3a16f4dc"
+  },
+  "0xdeaddeaddeaddeaddeaddeaddeaddeaddead0000": {
+    "chain": "metis",
+    "symbol": "Metis",
+    "decimals": 18,
+    "address": "0xdeaddeaddeaddeaddeaddeaddeaddeaddead0000"
+  },
+  "0xea32a96608495e54156ae48931a7c20f0dcc1a21": {
+    "chain": "metis",
+    "symbol": "m.USDC",
+    "decimals": 6,
+    "address": "0xea32a96608495e54156ae48931a7c20f0dcc1a21"
+  }
+}

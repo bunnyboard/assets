@@ -1,0 +1,13 @@
+{
+  "name": "bunnyboard-assets",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "pretty": "node scripts/verify.js && prettier --write ./scripts ./tokenlists"
+  },
+  "dependencies": {
+    "@trivago/prettier-plugin-sort-imports": "^4.3.0",
+    "prettier": "^3.1.1"
+  },
+  "packageManager": "yarn@4.1.0"
+}

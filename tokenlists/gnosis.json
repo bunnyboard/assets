@@ -1,0 +1,44 @@
+{
+  "0x6a023ccd1ff6f2045c3309768ead9e68f978f6e1": {
+    "chain": "gnosis",
+    "symbol": "WETH",
+    "decimals": 18,
+    "address": "0x6a023ccd1ff6f2045c3309768ead9e68f978f6e1"
+  },
+  "0x6c76971f98945ae98dd7d4dfca8711ebea946ea6": {
+    "chain": "gnosis",
+    "symbol": "wstETH",
+    "decimals": 18,
+    "address": "0x6c76971f98945ae98dd7d4dfca8711ebea946ea6"
+  },
+  "0x9c58bacc331c9aa871afd802db6379a98e80cedb": {
+    "chain": "gnosis",
+    "symbol": "GNO",
+    "decimals": 18,
+    "address": "0x9c58bacc331c9aa871afd802db6379a98e80cedb"
+  },
+  "0xaf204776c7245bf4147c2612bf6e5972ee483701": {
+    "chain": "gnosis",
+    "symbol": "sDAI",
+    "decimals": 18,
+    "address": "0xaf204776c7245bf4147c2612bf6e5972ee483701"
+  },
+  "0xcb444e90d8198415266c6a2724b7900fb12fc56e": {
+    "chain": "gnosis",
+    "symbol": "EURe",
+    "decimals": 18,
+    "address": "0xcb444e90d8198415266c6a2724b7900fb12fc56e"
+  },
+  "0xddafbb505ad214d7b80b1f830fccc89b60fb7a83": {
+    "chain": "gnosis",
+    "symbol": "USDC",
+    "decimals": 6,
+    "address": "0xddafbb505ad214d7b80b1f830fccc89b60fb7a83"
+  },
+  "0xe91d153e0b41518a2ce8dd3d7944fa863463a97d": {
+    "chain": "gnosis",
+    "symbol": "WXDAI",
+    "decimals": 18,
+    "address": "0xe91d153e0b41518a2ce8dd3d7944fa863463a97d"
+  }
+}
