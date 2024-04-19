@@ -14,6 +14,9 @@ const blockchains = [
   'metis',
   'gnosis',
   'scroll',
+  'blast',
+  'linea',
+  'zksync',
 ];
 
 for (const chain of blockchains) {
