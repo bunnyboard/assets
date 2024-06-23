@@ -29,21 +29,4 @@ for (const chain of blockchains) {
   for (const file of files) {
     fs.renameSync(`./images/tokens/${chain}/${file}`, `./images/tokens/${chain}/${file.toLowerCase()}`);
   }
-
-  // format tokens
-  const formattedTokens = {};
-  if (fs.existsSync(`../tokenlists/${chain}.json`)) {
-    const tokenList = require(`../tokenlists/${chain}.json`);
-    for (const [address, token] of Object.entries(tokenList)) {
-      const tokenAddress = address.toLowerCase();
-      formattedTokens[tokenAddress] = {
-        chain: token.chain.toLowerCase(),
-        symbol: token.symbol,
-        decimals: token.decimals,
-        address: tokenAddress,
-      };
-    }
-
-    fs.writeFileSync(`./tokenlists/${chain}.json`, JSON.stringify(formattedTokens));
-  }
 }
