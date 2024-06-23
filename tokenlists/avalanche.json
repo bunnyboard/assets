@@ -1,176 +1,387 @@
 {
-  "0x0000000000000000000000000000000000000000": {
-    "chain": "avalanche",
-    "address": "0x0000000000000000000000000000000000000000",
-    "symbol": "AVAX",
-    "decimals": 18
-  },
-  "0x0da67235dd5787d67955420c84ca1cecd4e5bb3b": {
-    "chain": "avalanche",
-    "address": "0x0da67235dd5787d67955420c84ca1cecd4e5bb3b",
-    "symbol": "wMEMO",
-    "decimals": 18
-  },
-  "0x130966628846bfd36ff31a822705796e8cb8c18d": {
-    "chain": "avalanche",
-    "address": "0x130966628846bfd36ff31a822705796e8cb8c18d",
-    "symbol": "MIM",
-    "decimals": 18
-  },
-  "0x152b9d0fdc40c096757f570a51e494bd4b943e50": {
-    "chain": "avalanche",
-    "address": "0x152b9d0fdc40c096757f570a51e494bd4b943e50",
-    "symbol": "BTC.b",
-    "decimals": 8
-  },
-  "0x2147efff675e4a4ee1c2f918d181cdbd7a8e208f": {
-    "chain": "avalanche",
-    "address": "0x2147efff675e4a4ee1c2f918d181cdbd7a8e208f",
-    "symbol": "ALPHA.e",
-    "decimals": 18
-  },
-  "0x2b2c81e08f1af8835a78bb2a90ae924ace0ea4be": {
-    "chain": "avalanche",
-    "address": "0x2b2c81e08f1af8835a78bb2a90ae924ace0ea4be",
-    "symbol": "sAVAX",
-    "decimals": 18
-  },
-  "0x34b2885d617ce2dded4f60ccb49809fc17bb58af": {
-    "chain": "avalanche",
-    "symbol": "XRP",
-    "decimals": 18,
-    "address": "0x34b2885d617ce2dded4f60ccb49809fc17bb58af"
-  },
-  "0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab": {
-    "chain": "avalanche",
-    "address": "0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab",
-    "symbol": "WETH.e",
-    "decimals": 18
-  },
-  "0x50b7545627a5162f82a992c33b87adc75187b218": {
-    "chain": "avalanche",
-    "address": "0x50b7545627a5162f82a992c33b87adc75187b218",
-    "symbol": "WBTC.e",
-    "decimals": 8
-  },
-  "0x57319d41f71e81f3c65f2a47ca4e001ebafd4f33": {
-    "chain": "avalanche",
-    "address": "0x57319d41f71e81f3c65f2a47ca4e001ebafd4f33",
-    "symbol": "xJOE",
-    "decimals": 18
-  },
-  "0x5947bb275c521040051d82396192181b413227a3": {
-    "chain": "avalanche",
-    "address": "0x5947bb275c521040051d82396192181b413227a3",
-    "symbol": "LINK.e",
-    "decimals": 18
-  },
-  "0x5c49b268c9841aff1cc3b0a418ff5c3442ee3f3b": {
-    "chain": "avalanche",
-    "address": "0x5c49b268c9841aff1cc3b0a418ff5c3442ee3f3b",
-    "symbol": "MAI",
-    "decimals": 18
-  },
-  "0x63a72806098bd3d9520cc43356dd78afe5d386d9": {
-    "chain": "avalanche",
-    "address": "0x63a72806098bd3d9520cc43356dd78afe5d386d9",
-    "symbol": "AAVE.e",
-    "decimals": 18
-  },
-  "0x781655d802670bba3c89aebaaea59d3182fd755d": {
-    "chain": "avalanche",
-    "address": "0x781655d802670bba3c89aebaaea59d3182fd755d",
-    "symbol": "JLP",
-    "decimals": 18
-  },
-  "0x8729438eb15e2c8b576fcc6aecda6a148776c0f5": {
-    "chain": "avalanche",
-    "address": "0x8729438eb15e2c8b576fcc6aecda6a148776c0f5",
-    "symbol": "QI",
-    "decimals": 18
-  },
-  "0x8e9c35235c38c44b5a53b56a41eaf6db9a430cd6": {
-    "chain": "avalanche",
-    "symbol": "LTC",
-    "decimals": 18,
-    "address": "0x8e9c35235c38c44b5a53b56a41eaf6db9a430cd6"
-  },
-  "0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7": {
-    "chain": "avalanche",
-    "address": "0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7",
-    "symbol": "USDt",
-    "decimals": 6
-  },
-  "0x9c9e5fd8bbc25984b178fdce6117defa39d2db39": {
-    "chain": "avalanche",
-    "address": "0x9c9e5fd8bbc25984b178fdce6117defa39d2db39",
-    "symbol": "BUSD",
-    "decimals": 18
-  },
-  "0xa389f9430876455c36478deea9769b7ca4e3ddb1": {
-    "chain": "avalanche",
-    "address": "0xa389f9430876455c36478deea9769b7ca4e3ddb1",
-    "symbol": "JLP",
-    "decimals": 18
-  },
-  "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664": {
-    "chain": "avalanche",
-    "address": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
-    "symbol": "USDC.e",
-    "decimals": 6
-  },
   "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7": {
     "chain": "avalanche",
-    "address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
     "symbol": "WAVAX",
-    "decimals": 18
+    "decimals": 18,
+    "address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7.jpg"
   },
   "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e": {
     "chain": "avalanche",
-    "address": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
     "symbol": "USDC",
-    "decimals": 6
-  },
-  "0xc301e6fe31062c557aee806cc6a841ae989a3ac6": {
-    "chain": "avalanche",
-    "symbol": "DOGE",
-    "decimals": 18,
-    "address": "0xc301e6fe31062c557aee806cc6a841ae989a3ac6"
-  },
-  "0xc7198437980c041c805a1edcba50c1ce5db95118": {
-    "chain": "avalanche",
-    "address": "0xc7198437980c041c805a1edcba50c1ce5db95118",
-    "symbol": "USDT.e",
-    "decimals": 6
-  },
-  "0xcbb424fd93cdec0ef330d8a8c985e8b147f62339": {
-    "chain": "avalanche",
-    "address": "0xcbb424fd93cdec0ef330d8a8c985e8b147f62339",
-    "symbol": "SLP",
-    "decimals": 18
-  },
-  "0xd24c2ad096400b6fbcd2ad8b24e7acbc21a1da64": {
-    "chain": "avalanche",
-    "address": "0xd24c2ad096400b6fbcd2ad8b24e7acbc21a1da64",
-    "symbol": "FRAX",
-    "decimals": 18
+    "decimals": 6,
+    "address": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg"
   },
   "0xd586e7f844cea2f87f50152665bcbc2c279d8d70": {
     "chain": "avalanche",
+    "symbol": "DAI",
+    "decimals": 18,
     "address": "0xd586e7f844cea2f87f50152665bcbc2c279d8d70",
-    "symbol": "DAI.e",
-    "decimals": 18
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0xd586E7F844cEa2F87f50152665BCbc2C279D8d70.jpg"
   },
-  "0xed8cbd9f0ce3c6986b22002f03c6475ceb7a6256": {
+  "0x8ebaf22b6f053dffeaf46f4dd9efa95d89ba8580": {
     "chain": "avalanche",
-    "address": "0xed8cbd9f0ce3c6986b22002f03c6475ceb7a6256",
-    "symbol": "JLP",
-    "decimals": 18
+    "symbol": "UNI.e",
+    "decimals": 18,
+    "address": "0x8ebaf22b6f053dffeaf46f4dd9efa95d89ba8580",
+    "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/avalanchec/assets/0x8eBAf22B6F053dFFeaf46f4Dd9eFA95D89ba8580/logo.png"
   },
-  "0xfe6b19286885a4f7f55adad09c3cd1f906d2478f": {
+  "0x62edc0692bd897d2295872a9ffcac5425011c661": {
     "chain": "avalanche",
-    "address": "0xfe6b19286885a4f7f55adad09c3cd1f906d2478f",
-    "symbol": "SOL",
-    "decimals": 9
+    "symbol": "GMX",
+    "decimals": 18,
+    "address": "0x62edc0692bd897d2295872a9ffcac5425011c661",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x62edc0692BD897D2295872a9FFCac5425011c661.jpg"
+  },
+  "0xc891eb4cbdeff6e073e859e987815ed1505c2acd": {
+    "chain": "avalanche",
+    "symbol": "EURC",
+    "decimals": 6,
+    "address": "0xc891eb4cbdeff6e073e859e987815ed1505c2acd",
+    "logoURI": "https://assets.coingecko.com/coins/images/26045/standard/euro.png?1696525125"
+  },
+  "0xaec8318a9a59baeb39861d10ff6c7f7bf1f96c57": {
+    "chain": "avalanche",
+    "symbol": "agEUR",
+    "decimals": 18,
+    "address": "0xaec8318a9a59baeb39861d10ff6c7f7bf1f96c57",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0xAEC8318a9a59bAEb39861d10ff6C7f7bf1F96C57.jpg"
+  },
+  "0x63a72806098bd3d9520cc43356dd78afe5d386d9": {
+    "chain": "avalanche",
+    "symbol": "AAVE",
+    "decimals": 18,
+    "address": "0x63a72806098bd3d9520cc43356dd78afe5d386d9",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x63a72806098Bd3D9520cC43356dD78afe5D386D9.jpg"
+  },
+  "0xc5fa5669e326da8b2c35540257cd48811f40a36b": {
+    "chain": "avalanche",
+    "symbol": "axlDAI",
+    "decimals": 18,
+    "address": "0xc5fa5669e326da8b2c35540257cd48811f40a36b",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0xC5Fa5669E326DA8B2C35540257cD48811F40a36B.jpg"
+  },
+  "0x42a62eb3fd2a05ed499117f128de8a3192b49ebb": {
+    "chain": "avalanche",
+    "symbol": "axlETH",
+    "decimals": 18,
+    "address": "0x42a62eb3fd2a05ed499117f128de8a3192b49ebb",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x42A62eb3Fd2a05eD499117F128de8a3192B49EBB.jpg"
+  },
+  "0xfab550568c688d5d8a52c7d794cb93edc26ec0ec": {
+    "chain": "avalanche",
+    "symbol": "axlUSDC",
+    "decimals": 6,
+    "address": "0xfab550568c688d5d8a52c7d794cb93edc26ec0ec",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0xfaB550568C688d5D8A52C7d794cb93Edc26eC0eC.jpg"
+  },
+  "0xf976ba91b6bb3468c91e4f02e68b37bc64a57e66": {
+    "chain": "avalanche",
+    "symbol": "axlUSDT",
+    "decimals": 6,
+    "address": "0xf976ba91b6bb3468c91e4f02e68b37bc64a57e66",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0xF976ba91b6bb3468C91E4f02E68B37bc64a57e66.jpg"
+  },
+  "0xa6220b4209353dfef03b6ce410c8f01105515f94": {
+    "chain": "avalanche",
+    "symbol": "axlWBTC",
+    "decimals": 8,
+    "address": "0xa6220b4209353dfef03b6ce410c8f01105515f94",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0xa6220B4209353dFeF03B6cE410c8F01105515f94.jpg"
+  },
+  "0x3cd790449cf7d187a143d4bd7f4654d4f2403e02": {
+    "chain": "avalanche",
+    "symbol": "BOBA",
+    "decimals": 18,
+    "address": "0x3cd790449cf7d187a143d4bd7f4654d4f2403e02",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x3cD790449CF7D187a143d4Bd7F4654d4f2403e02.jpg"
+  },
+  "0x63682bdc5f875e9bf69e201550658492c9763f89": {
+    "chain": "avalanche",
+    "symbol": "BSGG",
+    "decimals": 18,
+    "address": "0x63682bdc5f875e9bf69e201550658492c9763f89",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x69570f3E84f51Ea70b7B68055c8d667e77735a25.jpg"
+  },
+  "0x152b9d0fdc40c096757f570a51e494bd4b943e50": {
+    "chain": "avalanche",
+    "symbol": "BTC.b",
+    "decimals": 8,
+    "address": "0x152b9d0fdc40c096757f570a51e494bd4b943e50",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x152b9d0FdC40C096757F570A51E494bd4b943E50.jpg"
+  },
+  "0x9c9e5fd8bbc25984b178fdce6117defa39d2db39": {
+    "chain": "avalanche",
+    "symbol": "BUSD",
+    "decimals": 18,
+    "address": "0x9c9e5fd8bbc25984b178fdce6117defa39d2db39",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39.jpg"
+  },
+  "0x0cbd6fadcf8096cc9a43d90b45f65826102e3ece": {
+    "chain": "avalanche",
+    "symbol": "CDT",
+    "decimals": 18,
+    "address": "0x0cbd6fadcf8096cc9a43d90b45f65826102e3ece",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x0cBD6fAdcF8096cC9A43d90B45F65826102e3eCE.jpg"
+  },
+  "0xdef1fac7bf08f173d286bbbdcbeeade695129840": {
+    "chain": "avalanche",
+    "symbol": "CERBY",
+    "decimals": 18,
+    "address": "0xdef1fac7bf08f173d286bbbdcbeeade695129840",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xdef1fac7Bf08f173D286BbBDcBeeADe695129840/logo.png"
+  },
+  "0xd24c2ad096400b6fbcd2ad8b24e7acbc21a1da64": {
+    "chain": "avalanche",
+    "symbol": "FRAX",
+    "decimals": 18,
+    "address": "0xd24c2ad096400b6fbcd2ad8b24e7acbc21a1da64",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/frax.jpg"
+  },
+  "0x214db107654ff987ad859f34125307783fc8e387": {
+    "chain": "avalanche",
+    "symbol": "FXS",
+    "decimals": 18,
+    "address": "0x214db107654ff987ad859f34125307783fc8e387",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/fxs.jpg"
+  },
+  "0x5541d83efad1f281571b343977648b75d95cdac2": {
+    "chain": "avalanche",
+    "symbol": "GRAPE",
+    "decimals": 18,
+    "address": "0x5541d83efad1f281571b343977648b75d95cdac2",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x5541D83EFaD1f281571B343977648B75d95cdAC2.jpg"
+  },
+  "0xcdeb5641dc5bf05845317b00643a713ccc3b22e6": {
+    "chain": "avalanche",
+    "symbol": "HT",
+    "decimals": 18,
+    "address": "0xcdeb5641dc5bf05845317b00643a713ccc3b22e6",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/ht.jpg"
+  },
+  "0xe0ce60af0850bf54072635e66e79df17082a1109": {
+    "chain": "avalanche",
+    "symbol": "ICE",
+    "decimals": 18,
+    "address": "0xe0ce60af0850bf54072635e66e79df17082a1109",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x4e1581f01046eFDd7a1a2CDB0F82cdd7F71F2E59.jpg"
+  },
+  "0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd": {
+    "chain": "avalanche",
+    "symbol": "JOE",
+    "decimals": 18,
+    "address": "0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd.jpg"
+  },
+  "0x5947bb275c521040051d82396192181b413227a3": {
+    "chain": "avalanche",
+    "symbol": "LINK",
+    "decimals": 18,
+    "address": "0x5947bb275c521040051d82396192181b413227a3",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x5947BB275c521040051D82396192181b413227A3.jpg"
+  },
+  "0x3b55e45fd6bd7d4724f5c47e0d1bcaedd059263e": {
+    "chain": "avalanche",
+    "symbol": "MAI",
+    "decimals": 18,
+    "address": "0x3b55e45fd6bd7d4724f5c47e0d1bcaedd059263e",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xa3Fa99A148fA48D14Ed51d610c367C61876997F1/logo.png"
+  },
+  "0xa56b1b9f4e5a1a1e0868f5fd4352ce7cdf0c2a4f": {
+    "chain": "avalanche",
+    "symbol": "MATIC",
+    "decimals": 19,
+    "address": "0xa56b1b9f4e5a1a1e0868f5fd4352ce7cdf0c2a4f",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/matic.jpg"
+  },
+  "0x130966628846bfd36ff31a822705796e8cb8c18d": {
+    "chain": "avalanche",
+    "symbol": "MIM",
+    "decimals": 18,
+    "address": "0x130966628846bfd36ff31a822705796e8cb8c18d",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x130966628846BFd36ff31a822705796e8cb8C18D.jpg"
+  },
+  "0xf873633df9d5cdd62bb1f402499cc470a72a02d7": {
+    "chain": "avalanche",
+    "symbol": "MOVR",
+    "decimals": 18,
+    "address": "0xf873633df9d5cdd62bb1f402499cc470a72a02d7",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/movr.jpg"
+  },
+  "0xd036414fa2bcbb802691491e323bff1348c5f4ba": {
+    "chain": "avalanche",
+    "symbol": "MU",
+    "decimals": 18,
+    "address": "0xd036414fa2bcbb802691491e323bff1348c5f4ba",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0xD036414fa2BCBb802691491E323BFf1348C5F4Ba.jpg"
+  },
+  "0xd47e4f1ef1aa4090bc27420bdd5cb379ced81440": {
+    "chain": "avalanche",
+    "symbol": "NFTE",
+    "decimals": 18,
+    "address": "0xd47e4f1ef1aa4090bc27420bdd5cb379ced81440",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0xD47E4F1ef1AA4090bc27420BDD5cB379Ced81440.jpg"
+  },
+  "0x3134210a6bdb55eed6e59905bc34928df6d74830": {
+    "chain": "avalanche",
+    "symbol": "NGNC",
+    "decimals": 6,
+    "address": "0x3134210a6bdb55eed6e59905bc34928df6d74830",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x3134210a6BdB55eED6E59905bC34928DF6d74830.jpg"
+  },
+  "0x39cf1bd5f15fb22ec3d9ff86b0727afc203427cc": {
+    "chain": "avalanche",
+    "symbol": "oldSUSHI",
+    "decimals": 18,
+    "address": "0x39cf1bd5f15fb22ec3d9ff86b0727afc203427cc",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x39cf1BD5f15fb22eC3D9Ff86b0727aFc203427cc.jpg"
+  },
+  "0xde3a24028580884448a5397872046a019649b084": {
+    "chain": "avalanche",
+    "symbol": "oldUSDT",
+    "decimals": 6,
+    "address": "0xde3a24028580884448a5397872046a019649b084",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0xc7198437980c041c805A1EDcbA50c1Ce5db95118.jpg"
+  },
+  "0xf20d962a6c8f70c731bd838a3a388d7d48fa6e15": {
+    "chain": "avalanche",
+    "symbol": "oldWETH",
+    "decimals": 18,
+    "address": "0xf20d962a6c8f70c731bd838a3a388d7d48fa6e15",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15.jpg"
+  },
+  "0x96e1056a8814de39c8c3cd0176042d6cecd807d7": {
+    "chain": "avalanche",
+    "symbol": "OSAK",
+    "decimals": 18,
+    "address": "0x96e1056a8814de39c8c3cd0176042d6cecd807d7",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x96E1056a8814De39c8c3Cd0176042d6ceCD807d7.jpg"
+  },
+  "0x68ee0d0aad9e1984af85ca224117e4d20eaf68be": {
+    "chain": "avalanche",
+    "symbol": "ROY",
+    "decimals": 18,
+    "address": "0x68ee0d0aad9e1984af85ca224117e4d20eaf68be",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x68EE0D0aad9e1984aF85CA224117E4D20eaF68BE.jpg"
+  },
+  "0x237917e8a998b37759c8ee2faa529d60c66c2927": {
+    "chain": "avalanche",
+    "symbol": "sifu",
+    "decimals": 18,
+    "address": "0x237917e8a998b37759c8ee2faa529d60c66c2927",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x237917E8a998b37759c8EE2fAa529D60c66c2927.jpg"
+  },
+  "0xce1bffbd5374dac86a2893119683f4911a2f7814": {
+    "chain": "avalanche",
+    "symbol": "SPELL",
+    "decimals": 18,
+    "address": "0xce1bffbd5374dac86a2893119683f4911a2f7814",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0xCE1bFFBD5374Dac86a2893119683F4911a2F7814.jpg"
+  },
+  "0x3ee97d514bbef95a2f110e6b9b73824719030f7a": {
+    "chain": "avalanche",
+    "symbol": "sSPELL",
+    "decimals": 18,
+    "address": "0x3ee97d514bbef95a2f110e6b9b73824719030f7a",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x3Ee97d514BBef95a2f110e6B9b73824719030f7a.jpg"
+  },
+  "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590": {
+    "chain": "avalanche",
+    "symbol": "STG",
+    "decimals": 18,
+    "address": "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590.jpg"
+  },
+  "0x37b608519f91f70f2eeb0e5ed9af4061722e4f76": {
+    "chain": "avalanche",
+    "symbol": "SUSHI.e",
+    "decimals": 18,
+    "address": "0x37b608519f91f70f2eeb0e5ed9af4061722e4f76",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x37B608519F91f70F2EeB0e5Ed9AF4061722e4F76.jpg"
+  },
+  "0xb54f16fb19478766a268f172c9480f8da1a7c9c3": {
+    "chain": "avalanche",
+    "symbol": "TIME",
+    "decimals": 9,
+    "address": "0xb54f16fb19478766a268f172c9480f8da1a7c9c3",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0xb54f16fB19478766A268F172C9480f8da1a7c9C3.jpg"
+  },
+  "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664": {
+    "chain": "avalanche",
+    "symbol": "USDC.e",
+    "decimals": 6,
+    "address": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg"
+  },
+  "0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7": {
+    "chain": "avalanche",
+    "symbol": "USDT",
+    "decimals": 6,
+    "address": "0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg"
+  },
+  "0xc7198437980c041c805a1edcba50c1ce5db95118": {
+    "chain": "avalanche",
+    "symbol": "USDT.e",
+    "decimals": 6,
+    "address": "0xc7198437980c041c805a1edcba50c1ce5db95118",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0xc7198437980c041c805A1EDcbA50c1Ce5db95118.jpg"
+  },
+  "0x323665443cef804a3b5206103304bd4872ea4253": {
+    "chain": "avalanche",
+    "symbol": "USDV",
+    "decimals": 6,
+    "address": "0x323665443cef804a3b5206103304bd4872ea4253",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x323665443CEf804A3b5206103304BD4872EA4253.jpg"
+  },
+  "0x50b7545627a5162f82a992c33b87adc75187b218": {
+    "chain": "avalanche",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "address": "0x50b7545627a5162f82a992c33b87adc75187b218",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x50b7545627a5162F82A992c33b87aDc75187B218.jpg"
+  },
+  "0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab": {
+    "chain": "avalanche",
+    "symbol": "WETH",
+    "decimals": 18,
+    "address": "0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB.jpg"
+  },
+  "0xc55036b5348cfb45a932481744645985010d3a44": {
+    "chain": "avalanche",
+    "symbol": "WINE",
+    "decimals": 18,
+    "address": "0xc55036b5348cfb45a932481744645985010d3a44",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xC55036B5348CfB45a932481744645985010d3A44/logo.png"
+  },
+  "0x0da67235dd5787d67955420c84ca1cecd4e5bb3b": {
+    "chain": "avalanche",
+    "symbol": "wMEMO",
+    "decimals": 18,
+    "address": "0x0da67235dd5787d67955420c84ca1cecd4e5bb3b",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x0da67235dD5787D67955420C84ca1cEcd4E5Bb3b.jpg"
+  },
+  "0xa384bc7cdc0a93e686da9e7b8c0807cd040f4e0b": {
+    "chain": "avalanche",
+    "symbol": "WOW",
+    "decimals": 18,
+    "address": "0xa384bc7cdc0a93e686da9e7b8c0807cd040f4e0b",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x3405A1bd46B85c5C029483FbECf2F3E611026e45/logo.png"
+  },
+  "0x57319d41f71e81f3c65f2a47ca4e001ebafd4f33": {
+    "chain": "avalanche",
+    "symbol": "xJOE",
+    "decimals": 18,
+    "address": "0x57319d41f71e81f3c65f2a47ca4e001ebafd4f33",
+    "logoURI": "https://snowtrace.io/token/images/xjoe_32.png"
+  },
+  "0x6985884c4392d348587b19cb9eaaf157f13271cd": {
+    "chain": "avalanche",
+    "symbol": "ZRO",
+    "decimals": 18,
+    "address": "0x6985884c4392d348587b19cb9eaaf157f13271cd",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x6985884C4392D348587B19cb9eAAf157F13271cd.jpg"
   }
 }

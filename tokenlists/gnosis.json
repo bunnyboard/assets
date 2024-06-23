@@ -1,44 +1,30 @@
 {
-  "0x6a023ccd1ff6f2045c3309768ead9e68f978f6e1": {
+  "0x4b1e2c2762667331bc91648052f646d1b0d35984": {
     "chain": "gnosis",
-    "address": "0x6a023ccd1ff6f2045c3309768ead9e68f978f6e1",
-    "symbol": "WETH",
-    "decimals": 18
+    "symbol": "agEUR",
+    "decimals": 18,
+    "address": "0x4b1e2c2762667331bc91648052f646d1b0d35984",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/gnosis/0x4b1E2c2762667331Bc91648052F646d1b0d35984.jpg"
   },
-  "0x6c76971f98945ae98dd7d4dfca8711ebea946ea6": {
+  "0x524b969793a64a602342d89bc2789d43a016b13a": {
     "chain": "gnosis",
-    "address": "0x6c76971f98945ae98dd7d4dfca8711ebea946ea6",
-    "symbol": "wstETH",
-    "decimals": 18
+    "symbol": "DONUT",
+    "decimals": 18,
+    "address": "0x524b969793a64a602342d89bc2789d43a016b13a",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/gnosis/0x524B969793a64a602342d89BC2789D43a016B13A.jpg"
   },
-  "0x9c58bacc331c9aa871afd802db6379a98e80cedb": {
+  "0xe68856eb29b2fb39699286cca7f10f90ce8ae9de": {
     "chain": "gnosis",
-    "address": "0x9c58bacc331c9aa871afd802db6379a98e80cedb",
-    "symbol": "GNO",
-    "decimals": 18
+    "symbol": "FCL",
+    "decimals": 18,
+    "address": "0xe68856eb29b2fb39699286cca7f10f90ce8ae9de",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/gnosis/0xe68856eb29B2FB39699286CcA7F10f90Ce8AE9De.jpg"
   },
-  "0xaf204776c7245bf4147c2612bf6e5972ee483701": {
+  "0x2995d1317dcd4f0ab89f4ae60f3f020a4f17c7ce": {
     "chain": "gnosis",
-    "address": "0xaf204776c7245bf4147c2612bf6e5972ee483701",
-    "symbol": "sDAI",
-    "decimals": 18
-  },
-  "0xcb444e90d8198415266c6a2724b7900fb12fc56e": {
-    "chain": "gnosis",
-    "address": "0xcb444e90d8198415266c6a2724b7900fb12fc56e",
-    "symbol": "EURe",
-    "decimals": 18
-  },
-  "0xddafbb505ad214d7b80b1f830fccc89b60fb7a83": {
-    "chain": "gnosis",
-    "address": "0xddafbb505ad214d7b80b1f830fccc89b60fb7a83",
-    "symbol": "USDC",
-    "decimals": 6
-  },
-  "0xe91d153e0b41518a2ce8dd3d7944fa863463a97d": {
-    "chain": "gnosis",
-    "address": "0xe91d153e0b41518a2ce8dd3d7944fa863463a97d",
-    "symbol": "WXDAI",
-    "decimals": 18
+    "symbol": "SUSHI",
+    "decimals": 18,
+    "address": "0x2995d1317dcd4f0ab89f4ae60f3f020a4f17c7ce",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/gnosis/0x2995D1317DcD4f0aB89f4AE60F3f020A4F17C7CE.jpg"
   }
 }
