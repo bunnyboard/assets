@@ -1,24 +1,7 @@
 const fs = require('fs');
 const assert = require('assert');
 
-// we verify every single token in token list
-const blockchains = [
-  'ethereum',
-  'arbitrum',
-  'optimism',
-  'base',
-  'bnbchain',
-  'polygon',
-  'fantom',
-  'avalanche',
-  'metis',
-  'gnosis',
-  'scroll',
-  'blast',
-  'linea',
-  'zksync',
-  'manta',
-];
+const blockchains = fs.readdirSync('./images/tokens');
 
 for (const chain of blockchains) {
   // make sure we have the chain logo image
